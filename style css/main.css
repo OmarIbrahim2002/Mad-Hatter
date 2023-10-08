@@ -549,7 +549,7 @@ footer .copyright{
     }
     .section-1 .content .design p:first-of-type,
     .section-1 .content .creative p:first-of-type{
-        font-size: 30px;
+        font-size: 25px;
     }
     .section-1 .content .design p:last-child,
     .section-1 .content .creative p:last-child{
@@ -581,7 +581,7 @@ footer .copyright{
         display: none !important;
     }
     .section-4 .text{
-        font-size: 65px;
+        font-size: 50px;
     }
     footer .about h4{
         font-size: 16px;
