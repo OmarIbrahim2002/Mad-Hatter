@@ -544,7 +544,7 @@ footer .copyright{
     .mainHeading {
         font-size: 70px;
     }
-        header .logo{
+    header .logo{
         font-size: 9px;
     }
     header .links a{
@@ -555,14 +555,14 @@ footer .copyright{
     }
     .section-1 .content .design p:first-of-type,
     .section-1 .content .creative p:first-of-type{
-        font-size: 25px;
+        font-size: 20px;
     }
     .section-1 .content .design p:last-child,
     .section-1 .content .creative p:last-child{
-        font-size: 10px;
+        font-size: 8px;
     }
     .content .arrow .icon {
-        bottom: -160px;
+        bottom: -140px;
     }
     .section-1 .box-two .content .text p{
         padding: 0;
@@ -595,6 +595,11 @@ footer .copyright{
     footer .about .text{
         font-size: 12px;
     }
+    /* ----------JS Classes------------ */
+    header .links a.hide{
+        display: none;
+    }
+}
     /* ----------JS Classes------------ */
     header .links a.hide{
         display: none;
