@@ -544,6 +544,12 @@ footer .copyright{
     .mainHeading {
         font-size: 70px;
     }
+        header .logo{
+        font-size: 9px;
+    }
+    header .links a{
+        font-size: 8px;
+    }
     .section-3 .box-one .content p{
         font-size: 16px;
     }
