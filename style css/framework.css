@@ -1,0 +1,57 @@
+:root{
+    --whiteColor: white;
+    --blackColor: black;
+    --grayColor: #888;
+    --transition: 0.3s;
+}
+.mainHeading{
+    font-size: 85px;
+    color: white;
+    text-transform: uppercase;
+    cursor: default;
+    position: relative;
+    padding: 130px 0 45px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+.mainHeading span{
+    font-weight: normal;
+}
+/* ----Display */
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex-between{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.align-center{
+    display: flex;
+    align-items: center;
+}
+.justify-center{
+    display: flex;
+    justify-content: center;
+}
+/* Margin & Padding */
+.secPadding{
+    padding-top: 100px;
+}
+/* Bg & Color */
+.whiteColor{color: var(--whiteColor);}
+.blackColor{color: var(--blackColor);}
+.grayColor{color: var(--grayColor);}
+.whiteBg{
+    background: url(../img/white-background.png);
+    background-size: cover;
+    background-position: center;
+}
+.blackBg{
+    background: url(../img/black-background.png);
+    background-size: cover;
+    background-position: center;
+}
